@@ -9,3 +9,4 @@ Detta är en enkel webbapplikation som använder HTML, CSS och JavaScript.
 
 ## Användning
 Öppna `index.html` i din webbläsare för att se webbapplikationen i aktion.
+
